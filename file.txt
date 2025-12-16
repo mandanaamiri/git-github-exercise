@@ -1,3 +1,2 @@
 FIRST COMMIT from mandanaamiri:main
 SECOND COMMIT from mandanaamiri:main
-CONFLICT COMMIT from mandanaamiri:main
